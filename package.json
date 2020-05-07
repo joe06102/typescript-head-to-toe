@@ -1,0 +1,23 @@
+{
+  "name": "typescript-head-to-toe",
+  "version": "1.0.0",
+  "description": "A helper lib that copes with complicated type computations !",
+  "main": "index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joe06102/typescript-head-to-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joe06102/typescript-head-to-toe/issues"
+  },
+  "homepage": "https://github.com/joe06102/typescript-head-to-toe#readme",
+  "peerDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
